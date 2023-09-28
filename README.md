@@ -1,6 +1,6 @@
 # Check Telefono
 
-In questo codice riceve un array di stringhe come input che rappresentano dei numeri di telefono. 
+Questo codice riceve un array di stringhe come input che rappresentano dei numeri di telefono. 
 Il metodo Check controlla ogni numero all'interno dell'array e restituisce il primo numero che soddisfa una delle seguenti condizioni:
 
     -Il numero ha una lunghezza di 10 cifre e inizia con il numero "3".
